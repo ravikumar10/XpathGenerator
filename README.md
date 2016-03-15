@@ -1,6 +1,6 @@
 # XpathGenerator
 
-This tool will generate Xpaths for the Given Json and Xml files , and print them in the console.
+This tool will generate Xpath for the Given Json and Xml files , and print them in the console.
 
 HOW TO USE ::
 Copy the .jar files and the library, run the below command :
