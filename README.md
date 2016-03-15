@@ -3,7 +3,7 @@
 This tool will generate Xpath for the Given Json and Xml files , and print them in the console.
 
 HOW TO USE ::
-Copy the .jar file and run the below command :
+Copy the .jar files and the library, run the below command :
 
 Json::   java -cp XpathGenerator.jar XpathGenerator -json test.json
 
