@@ -1,6 +1,7 @@
 # XpathGenerator
 
-This tool will generate Xpath for the Given Json and Xml files , and print them in the console.
+This tool will generate Xpaths for the Given Json and Xml files , and print them in the console.
+I have made some changes in the java-json.jar to pick "content" as key.
 
 HOW TO USE ::
 Copy the .jar files and the library, run the below command :
