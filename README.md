@@ -1,6 +1,6 @@
 # XpathGenerator
 
-This tool will generate Xpaths for the Given Json and Xml files , and print them in the console.It will take muyltiple keys and print them with index ie; for eg, rcs-data[3]
+This tool will generate Xpaths for the Given Json and Xml files , and print them in the console.It will take multiple keys and print them with index ie; for eg, rcs-data[3]
 
 I have made some changes in the java-json.jar to pick "content" as key in order to print content as node in the generated xpaths.
 
